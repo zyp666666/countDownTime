@@ -3,4 +3,4 @@
 
 
 GIF软件有点bug，哈哈。。。
-![image]()
+![image](https://github.com/zyp666666/countDownTime/blob/master/src/GIF.gif)
